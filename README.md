@@ -20,8 +20,10 @@
 
 Hi, I'm Lucas, a French software engineer, game maker and Python enthusiast.
 
-Apart from that I like [F/LOSS software](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software),
-[web accessibility](https://en.wikipedia.org/wiki/Web_accessibility), CD/CI pipelines and problem solving ❤✌
+Apart from that, I'm interested in [nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication),
+[tabletop RPGs](https://en.wikipedia.org/wiki/Tabletop_role-playing_game),
+[F/LOSS software](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software),
+[web accessibility](https://en.wikipedia.org/wiki/Web_accessibility), CD/CI pipelines and mathematics ❤✌
 
 - 🔭 I’m currently a DevOps tech lead at [oui.sncf](https://jobs.oui.sncf)
 - ✨ I publish some of my games on [itch.io](https://lucas-c.itch.io).
