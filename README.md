@@ -25,7 +25,7 @@ Apart from that, I'm interested in [nonviolent communication](https://en.wikiped
 [F/LOSS software](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software),
 [web accessibility](https://en.wikipedia.org/wiki/Web_accessibility), CD/CI pipelines and mathematics ❤✌
 
-- 🔭 I’m currently a DevOps tech lead at [oui.sncf](https://jobs.oui.sncf)
+- 🔭 I’m currently a DevOps tech lead at [sncf-connect.com](https://jobs.connect-tech.sncf)
 - ✨ I publish some of my games on [itch.io](https://lucas-c.itch.io).
   One of them is **Undying Dusk**, a video game in a PDF format, with a gameplay based on exploration and logic puzzles, in the tradition of dungeon crawlers: https://lucas-c.itch.io/undying-dusk
 - ⚡ Check out my recent [blog posts](https://chezsoi.org/lucas/blog/) & [presentations](https://chezsoi.org/lucas/blog/pages/slides.html) in French
