@@ -6,14 +6,11 @@
 <a href="https://chezsoi.org/shaarli">
 <img align="left" alt="Lucas | Shaarli" width="22px" src="https://chezsoi.org/lucas/blog/theme/shaarli-icon.png" />
 </a>
-<a href="https://lucas-c.itch.io">
-<img align="left" alt="Lucas | itch.io" width="22px" src="https://chezsoi.org/lucas/blog/theme/itchio.svg" />
-</a>
-<a href="https://www.reddit.com/user/lucas-c/posts/">
-<img align="left" alt="Lucas | Reddit" width="22px" src="https://chezsoi.org/lucas/blog/theme/reddit-logo.png" />
-</a>
 <a href="https://www.linkedin.com/in/lucascimon">
 <img align="left" alt="Lucas | LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico" />
+</a>
+<a href="https://lucas-c.itch.io">
+<img align="left" alt="Lucas | itch.io" width="22px" src="https://chezsoi.org/lucas/blog/theme/itchio.svg" />
 </a>
 
 <br/>
