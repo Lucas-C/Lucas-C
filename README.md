@@ -10,7 +10,7 @@
 <img align="left" alt="Lucas | LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico" />
 </a>
 <a href="https://lucas-c.itch.io">
-<img align="left" alt="Lucas | itch.io" width="22px" src="https://chezsoi.org/lucas/blog/theme/itchio.svg" />
+<img align="left" alt="Lucas | itch.io" width="22px" src="itch-io-icon.png" />
 </a>
 
 <br/>
